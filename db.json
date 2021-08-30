@@ -1,16 +1,61 @@
 {
-  "posts":[
+  "notes": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "title": "A Love Note",
+      "description": "P.S. I love you.",
+      "authorId": "author_2"
+    },
+    {
+      "id": 2,
+      "title": "A Passion Note",
+      "description": "Find your passion.",
+      "authorId": "author_1"
+    },
+    {
+      "id": 3,
+      "title": "A Funny Note",
+      "description": "I love you more than this chocolate cake! But can you just leave me a little? :)",
+      "authorId": "author_3"
+    },
+    {
+      "id": 4,
+      "title": "A Sad Note",
+      "description": "Why can't you just let go ?",
+      "authorId": "author_3"
+    },
+    {
+      "id": 5,
+      "title": "A Courage Note",
+      "description": "This might work and I'll try it.",
+      "authorId": "author_2"
     }
   ],
-  "comments" : [
+  "authors": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "author_1",
+      "name": "Emily",
+      "age": 25
+    },
+    {
+      "id": "author_2",
+      "name": "Leo",
+      "age": 28
+    },
+    {
+      "id": "author_3",
+      "name": "William",
+      "age": 35
+    },
+    {
+      "id": "author_4",
+      "name": "Edgar",
+      "age": 43
+    },
+    {
+      "id": "author_5",
+      "name": "Arthur",
+      "age": 27
     }
   ]
 }
