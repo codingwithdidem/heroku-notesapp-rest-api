@@ -35,27 +35,32 @@
     {
       "id": "author_1",
       "name": "Emily",
-      "age": 25
+      "age": 25,
+      "photo": "https://images.unsplash.com/photo-1485875437342-9b39470b3d95?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1052&q=80"
     },
     {
       "id": "author_2",
       "name": "Leo",
-      "age": 28
+      "age": 28,
+      "photo": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": "author_3",
       "name": "William",
-      "age": 35
+      "age": 35,
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": "author_4",
       "name": "Edgar",
-      "age": 43
+      "age": 43,
+      "photo": "https://images.unsplash.com/photo-1508341591423-4347099e1f19?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": "author_5",
       "name": "Arthur",
-      "age": 27
+      "age": 27,
+      "photo": "https://images.unsplash.com/photo-1488371934083-edb7857977df?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1lbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     }
   ]
 }
