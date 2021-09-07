@@ -5,35 +5,35 @@
       "title": "A Love Note",
       "description": "P.S. I love you.",
       "authorId": "author_2",
-      "numberOfViews": 3
+      "numberOfViews": 0
     },
     {
       "id": 2,
       "title": "A Passion Note",
       "description": "Find your passion.",
       "authorId": "author_1",
-      "numberOfViews": 4
+      "numberOfViews": 0
     },
     {
       "id": 3,
       "title": "A Funny Note",
       "description": "I love you more than this chocolate cake! But can you just leave me a little? :)",
       "authorId": "author_3",
-      "numberOfViews": 56
+      "numberOfViews": 0
     },
     {
       "id": 4,
       "title": "A Sad Note",
       "description": "Why can't you just let go ?",
       "authorId": "author_3",
-      "numberOfViews": 100
+      "numberOfViews": 0
     },
     {
       "id": 5,
       "title": "A Courage Note",
       "description": "This might work and I'll try it.",
       "authorId": "author_2",
-      "numberOfViews": 3
+      "numberOfViews": 0
     }
   ],
   "authors": [
